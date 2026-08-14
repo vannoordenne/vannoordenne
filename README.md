@@ -36,7 +36,7 @@ mode and a QR code that hands your exact settings to a room full of
 students. You can also export a model you've trained badly on purpose and
 let them work out what's wrong with it.
 
-<img src="assets/vision-lab.png" width="700" alt="vision.lab: a webcam
+<img src="vision-lab.png" width="700" alt="vision.lab: a webcam
 classifier showing which stored examples it matched and where the live
 frame lands in embedding space">
 
