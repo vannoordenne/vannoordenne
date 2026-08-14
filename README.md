@@ -11,12 +11,12 @@
 
 Technologist by training, designer by habit, curious to a fault.
 
-I teach at the Amsterdam University of Applied Sciences, where I lead Dark
+I teach at the Amsterdam University of Applied Sciences, where I lead the Dark
 Tech Studio: a semester in which computing students take apart the systems
 they're being trained to build. I'm also part of
 [or.bit](https://www.or-bit.xyz), a small research collective.
 
-Most of the code here started as something I needed for a class.
+Most of the code here started as something I needed for a class or workshop.
 
 <h3 id="labs">labs/</h3>
 
